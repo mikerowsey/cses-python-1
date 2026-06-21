@@ -1,2 +1,1 @@
-# Weird-Algorithm
-weird
+
